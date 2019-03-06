@@ -14,7 +14,7 @@
 - [ ] Bodyswap
 - [ ] Brand Recall
 - [ ] Cleave
-- [ ] Cold Snap
+- [x] Cold Snap
 - [ ] Contagion
 - [ ] Convocation
 - [ ] Cremation
@@ -79,9 +79,9 @@
 - [ ] Unearth
 - [ ] Vengeance
 - [ ] Volatile Dead
-- [ ] Vortex
+- [x] Vortex
 - [ ] Vulnerability
 - [ ] Warlord's Mark
 - [ ] Whirling Blades
-- [ ] Winter Orb
+- [x] Winter Orb
 - [ ] Wither
