@@ -62,7 +62,7 @@
 - [ ] Raise Spectre
 - [ ] Reckoning
 - [ ] Rejuvenation Totem
-- [ ] Scorching Ray
+- [x] Scorching Ray (with old resist reduction)
 - [ ] Scourge Arrow
 - [ ] Seismic Trap
 - [ ] Shock Nova

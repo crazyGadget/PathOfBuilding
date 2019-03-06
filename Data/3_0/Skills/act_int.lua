@@ -5207,7 +5207,7 @@ skills["VaalRighteousFire"] = {
 skills["FireBeam"] = {
 	name = "Scorching Ray",
 	color = 3,
-	baseEffectiveness = 2.333300113678,
+	baseEffectiveness = 2.333300113678 * 1.257275302601082,
 	incrementalEffectiveness = 0.045000001788139,
 	description = "Unleash a beam of fire that burns enemies it touches, and decreases their fire resistance. Remaining in the beam intensifies the burning, adding a portion of the beam's damage in stages. Enemies who leave the beam continue to burn for a duration. Increasing cast speed also increases the rate at which the beam can turn.",
 	skillTypes = { [2] = true, [18] = true, [40] = true, [33] = true, [29] = true, [12] = true, [58] = true, [59] = true, [52] = true, },
@@ -5273,7 +5273,7 @@ skills["FireBeam"] = {
 		[17] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 9, levelRequirement = 64, },
 		[18] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 9, levelRequirement = 66, },
 		[19] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 10, levelRequirement = 68, },
-		[20] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 10, levelRequirement = 70, },
+		[20] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 11, levelRequirement = 70, },
 		[21] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 10, levelRequirement = 72, },
 		[22] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 11, levelRequirement = 74, },
 		[23] = { 16.666667039196, 1500, -40, 8, -3, -24, manaCost = 11, levelRequirement = 76, },
