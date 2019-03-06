@@ -962,7 +962,7 @@ skills["IcestormUniqueStaff12"] = {
 	description = "Icy bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies and chilling them, as well as causing patches of chilled ground. Skill damage is based on Intelligence.",
 	skillTypes = { [2] = true, [10] = true, [11] = true, [12] = true, [17] = true, [18] = true, [19] = true, [26] = true, [36] = true, [34] = true, [60] = true, [67] = true, [79] = true, },
 	statDescriptionScope = "skill_stat_descriptions",
-	castTime = 1,
+	castTime = 0.75,
 	fromItem = true,
 	baseFlags = {
 		spell = true,
@@ -990,7 +990,7 @@ skills["IcestormUniqueStaff12"] = {
 	},
 	statInterpolation = { 1, 1, 1, 1, 1, 1, 1, 1, },
 	levels = {
-		[1] = { 1, 3, 1500, 100, 450, 500, 4, 150, damageEffectiveness = 0.3, critChance = 5, levelRequirement = 1, manaCost = 22, },
+		[1] = { 1, 3, 1500, 100, 450, 500, 4, 150, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 1, manaCost = 22, },
 	},
 }
 skills["TriggeredIcicleNova"] = {
