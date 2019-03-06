@@ -37,7 +37,7 @@
 - [x] Flameblast
 - [ ] Flamethrower Trap
 - [ ] Freeze Mine
-- [ ] Freezing Pulse
+- [x] Freezing Pulse
 - [ ] Frost Bomb
 - [ ] Frost Wall
 - [ ] Frostbolt
