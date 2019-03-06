@@ -34,7 +34,7 @@
 - [x] Firestorm
 - [ ] Flame Dash
 - [ ] Flame Surge
-- [ ] Flameblast
+- [x] Flameblast
 - [ ] Flamethrower Trap
 - [ ] Freeze Mine
 - [ ] Freezing Pulse
