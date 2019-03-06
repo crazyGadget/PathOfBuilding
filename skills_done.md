@@ -9,7 +9,7 @@
 - [ ] Ball Lightning
 - [x] Blade Vortex
 - [ ] Bladefall
-- [ ] Blight
+- [x] Blight
 - [ ] Blood Rage
 - [ ] Bodyswap
 - [ ] Brand Recall
@@ -17,7 +17,7 @@
 - [x] Cold Snap
 - [ ] Contagion
 - [ ] Convocation
-- [ ] Cremation
+- [x] Cremation (without radius change)
 - [ ] Dark Pact
 - [ ] Desecrate
 - [ ] Despair
