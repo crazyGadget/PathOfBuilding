@@ -802,7 +802,7 @@ Limited to: 2
 Radius: Medium
 (7-13)% increased Chaos Damage
 With at least 40 Intelligence in Radius, Blight has 50% increased Hinder Duration
-With at least 40 Intelligence in Radius, Enemies Hindered by Blight take 25% increased Chaos Damage
+With at least 40 Intelligence in Radius, causes Blight to inflict Withered on enemies for 2 seconds
 ]],[[
 Steel Spirit
 Viridian Jewel
