@@ -50,7 +50,7 @@
 - [ ] Incinerate
 - [ ] Lightning Spire Trap
 - [ ] Lightning Tendrils
-- [ ] Lightning Trap
+- [x] Lightning Trap
 - [ ] Lightning Warp
 - [ ] Magma Orb
 - [ ] Molten Shell
