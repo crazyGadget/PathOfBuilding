@@ -1,0 +1,5 @@
+- [x] Abyssal Cry
+- [x] Animate Guardian
+- [x] Animate Weapon
+- [ ] Anger
+- [x] Arc

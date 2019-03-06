@@ -79,7 +79,7 @@ skills["AnimateWeapon"] = {
 		[17] = { 0, 74, 128, 32, 37500, 34, 51, 50, manaCost = 33, levelRequirement = 61, },
 		[18] = { 0, 78, 136, 34, 37500, 36, 53, 50, manaCost = 34, levelRequirement = 64, },
 		[19] = { 0, 82, 144, 36, 37500, 37, 55, 50, manaCost = 34, levelRequirement = 67, },
-		[20] = { 0, 100, 152, 38, 37500, 38, 56, 50, manaCost = 36, levelRequirement = 70, },
+		[20] = { 0, 100, 152, 38, 37500, 38, 56, 50, manaCost = 26, levelRequirement = 70, },
 		[21] = { 0, 100, 160, 40, 37500, 39, 58, 50, manaCost = 37, levelRequirement = 72, },
 		[22] = { 0, 100, 168, 42, 37500, 40, 60, 50, manaCost = 38, levelRequirement = 74, },
 		[23] = { 0, 100, 176, 44, 37500, 41, 61, 50, manaCost = 38, levelRequirement = 76, },
