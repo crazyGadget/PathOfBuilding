@@ -46,7 +46,7 @@
 - [ ] Hatred
 - [ ] Ice Nova
 - [ ] Ice Spear
-- [ ] Ice Trap
+- [x] Ice Trap (without radius buff)
 - [ ] Incinerate
 - [ ] Lightning Spire Trap
 - [ ] Lightning Tendrils
