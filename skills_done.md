@@ -26,7 +26,7 @@
 - [ ] Elemental Weakness
 - [ ] Enduring Cry
 - [ ] Enfeeble
-- [ ] Essence Drain
+- [x] Essence Drain
 - [ ] Ethereal Knives
 - [ ] Explosive Trap
 - [ ] Fire Nova Mine
@@ -70,7 +70,7 @@
 - [ ] Siphoning Trap
 - [ ] Spark
 - [ ] Spectral Shield Throw
-- [ ] Storm Brand
+- [x] Storm Brand
 - [ ] Storm Call
 - [ ] Summon Raging Spirit
 - [ ] Summon Skeleton
