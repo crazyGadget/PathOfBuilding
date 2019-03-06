@@ -27,7 +27,7 @@
 - [ ] Enduring Cry
 - [ ] Enfeeble
 - [x] Essence Drain
-- [ ] Ethereal Knives
+- [x] Ethereal Knives
 - [ ] Explosive Trap
 - [ ] Fire Nova Mine
 - [ ] Fireball
