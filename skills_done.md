@@ -3,3 +3,85 @@
 - [x] Animate Weapon
 - [ ] Anger
 - [x] Arc
+- [ ] Arctic Breath
+- [ ] Armageddon Brand
+- [ ] Assassin's Mark
+- [ ] Ball Lightning
+- [ ] Blade Vortex
+- [ ] Bladefall
+- [ ] Blight
+- [ ] Blood Rage
+- [ ] Bodyswap
+- [ ] Brand Recall
+- [ ] Cleave
+- [ ] Cold Snap
+- [ ] Contagion
+- [ ] Convocation
+- [ ] Cremation
+- [ ] Dark Pact
+- [ ] Desecrate
+- [ ] Despair
+- [ ] Detonate Dead
+- [ ] Discharge
+- [ ] Elemental Weakness
+- [ ] Enduring Cry
+- [ ] Enfeeble
+- [ ] Essence Drain
+- [ ] Ethereal Knives
+- [ ] Explosive Trap
+- [ ] Fire Nova Mine
+- [ ] Fireball
+- [x] Firestorm
+- [ ] Flame Dash
+- [ ] Flame Surge
+- [ ] Flameblast
+- [ ] Flamethrower Trap
+- [ ] Freeze Mine
+- [ ] Freezing Pulse
+- [ ] Frost Bomb
+- [ ] Frost Wall
+- [ ] Frostbolt
+- [ ] Glacial Cascade
+- [ ] Ground Slam
+- [ ] Hatred
+- [ ] Ice Nova
+- [ ] Ice Spear
+- [ ] Ice Trap
+- [ ] Incinerate
+- [ ] Lightning Spire Trap
+- [ ] Lightning Tendrils
+- [ ] Lightning Trap
+- [ ] Lightning Warp
+- [ ] Magma Orb
+- [ ] Molten Shell
+- [ ] Orb of Storms
+- [ ] Phase Run
+- [ ] Projectile Weakness
+- [ ] Punishment
+- [ ] Rallying Cry
+- [ ] Raise Spectre
+- [ ] Reckoning
+- [ ] Rejuvenation Totem
+- [ ] Scorching Ray
+- [ ] Scourge Arrow
+- [ ] Seismic Trap
+- [ ] Shock Nova
+- [ ] Shockwave Totem
+- [ ] Siphoning Trap
+- [ ] Spark
+- [ ] Spectral Shield Throw
+- [ ] Storm Brand
+- [ ] Storm Call
+- [ ] Summon Raging Spirit
+- [ ] Summon Skeleton
+- [ ] Tempest Shield
+- [ ] Temporal Chains
+- [ ] Unearth
+- [ ] Vengeance
+- [ ] Volatile Dead
+- [ ] Vortex
+- [ ] Vulnerability
+- [ ] Warlord's Mark
+- [ ] Whirling Blades
+- [ ] Winter Orb
+- [ ] Wither
