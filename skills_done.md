@@ -7,7 +7,7 @@
 - [ ] Armageddon Brand
 - [ ] Assassin's Mark
 - [ ] Ball Lightning
-- [ ] Blade Vortex
+- [x] Blade Vortex
 - [ ] Bladefall
 - [ ] Blight
 - [ ] Blood Rage
