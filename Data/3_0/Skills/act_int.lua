@@ -2370,12 +2370,12 @@ skills["VaalFireballSpiralNova"] = {
 skills["Firestorm"] = {
 	name = "Firestorm",
 	color = 3,
-	baseEffectiveness = 0.30559998750687,
+	baseEffectiveness = 0.30357614653,
 	incrementalEffectiveness = 0.035999998450279,
 	description = "Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.",
 	skillTypes = { [2] = true, [10] = true, [11] = true, [12] = true, [17] = true, [18] = true, [19] = true, [26] = true, [36] = true, [33] = true, [67] = true, },
 	statDescriptionScope = "skill_stat_descriptions",
-	castTime = 0.9,
+	castTime = 0.75,
 	baseFlags = {
 		spell = true,
 		area = true,
@@ -2418,7 +2418,7 @@ skills["Firestorm"] = {
 		[17] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 64, manaCost = 24, },
 		[18] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 66, manaCost = 25, },
 		[19] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 68, manaCost = 25, },
-		[20] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 70, manaCost = 26, },
+		[20] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 70, manaCost = 25, },
 		[21] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 72, manaCost = 26, },
 		[22] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 74, manaCost = 27, },
 		[23] = { 2, 3, 2000, 100, 1, 450, damageEffectiveness = 0.3, critChance = 6, levelRequirement = 76, manaCost = 27, },
