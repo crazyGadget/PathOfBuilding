@@ -67,7 +67,7 @@
 - [ ] Scourge Arrow
 - [ ] Seismic Trap
 - [ ] Shock Nova
-- [ ] Shockwave Totem
+- [x] Shockwave Totem
 - [ ] Siphoning Trap
 - [ ] Spark
 - [ ] Spectral Shield Throw
