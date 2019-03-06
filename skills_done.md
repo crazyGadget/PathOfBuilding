@@ -2,19 +2,19 @@
 - [x] Animate Guardian
 - [x] Animate Weapon
 - [ ] Anger
-- [x] Arc
+- [x] Arc (without Vaal Arc)
 - [ ] Arctic Breath
 - [ ] Armageddon Brand
 - [ ] Assassin's Mark
 - [ ] Ball Lightning
 - [x] Blade Vortex
 - [ ] Bladefall
-- [x] Blight
+- [x] Blight (without Vaal Blight)
 - [ ] Blood Rage
 - [ ] Bodyswap
 - [ ] Brand Recall
 - [ ] Cleave
-- [x] Cold Snap
+- [x] Cold Snap (without Vaal Cold Snap)
 - [ ] Contagion
 - [ ] Convocation
 - [x] Cremation (without radius change)
@@ -30,7 +30,7 @@
 - [x] Ethereal Knives
 - [ ] Explosive Trap
 - [ ] Fire Nova Mine
-- [ ] Fireball
+- [x] Fireball (Including Vaal Fireball!)
 - [x] Firestorm
 - [ ] Flame Dash
 - [ ] Flame Surge
