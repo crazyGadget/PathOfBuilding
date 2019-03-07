@@ -1,0 +1,88 @@
+- [x] Abyssal Cry
+- [x] Animate Guardian
+- [x] Animate Weapon
+- [ ] Anger
+- [x] Arc (without Vaal Arc)
+- [ ] Arctic Breath
+- [ ] Armageddon Brand
+- [ ] Assassin's Mark
+- [ ] Ball Lightning
+- [x] Blade Vortex
+- [ ] Bladefall
+- [x] Blight (without Vaal Blight)
+- [ ] Blood Rage
+- [ ] Bodyswap
+- [ ] Brand Recall
+- [ ] Cleave
+- [x] Cold Snap (without Vaal Cold Snap)
+- [ ] Contagion
+- [ ] Convocation
+- [x] Cremation (without radius change)
+- [ ] Dark Pact
+- [ ] Desecrate
+- [ ] Despair
+- [ ] Detonate Dead
+- [ ] Discharge
+- [ ] Elemental Weakness
+- [ ] Enduring Cry
+- [ ] Enfeeble
+- [x] Essence Drain
+- [x] Ethereal Knives
+- [ ] Explosive Trap
+- [ ] Fire Nova Mine
+- [x] Fireball (Including Vaal Fireball!)
+- [x] Firestorm
+- [ ] Flame Dash
+- [ ] Flame Surge
+- [x] Flameblast
+- [ ] Flamethrower Trap
+- [ ] Freeze Mine
+- [x] Freezing Pulse
+- [ ] Frost Bomb
+- [ ] Frost Wall
+- [ ] Frostbolt
+- [ ] Glacial Cascade
+- [ ] Ground Slam
+- [ ] Hatred
+- [ ] Ice Nova
+- [ ] Ice Spear
+- [x] Ice Trap (without radius buff)
+- [ ] Icestorm
+- [ ] Incinerate
+- [ ] Lightning Spire Trap
+- [ ] Lightning Tendrils
+- [x] Lightning Trap
+- [ ] Lightning Warp
+- [ ] Magma Orb
+- [ ] Molten Shell
+- [ ] Orb of Storms
+- [ ] Phase Run
+- [ ] Projectile Weakness
+- [ ] Punishment
+- [ ] Rallying Cry
+- [ ] Raise Spectre
+- [ ] Reckoning
+- [ ] Rejuvenation Totem
+- [x] Scorching Ray (with old resist reduction)
+- [ ] Scourge Arrow
+- [ ] Seismic Trap
+- [ ] Shock Nova
+- [x] Shockwave Totem
+- [ ] Siphoning Trap
+- [ ] Spark
+- [ ] Spectral Shield Throw
+- [x] Storm Brand
+- [ ] Storm Call
+- [ ] Summon Raging Spirit
+- [ ] Summon Skeleton
+- [ ] Tempest Shield
+- [ ] Temporal Chains
+- [ ] Unearth
+- [ ] Vengeance
+- [ ] Volatile Dead
+- [x] Vortex
+- [ ] Vulnerability
+- [ ] Warlord's Mark
+- [ ] Whirling Blades
+- [x] Winter Orb
+- [ ] Wither
